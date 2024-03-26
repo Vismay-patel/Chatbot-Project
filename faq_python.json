@@ -94,5 +94,13 @@
     {
         "title": "Is Python a good language for beginning programmers?",
         "content": "Yes. It is still common to start students with a procedural and statically typed\nlanguage such as Pascal, C, or a subset of C++ or Java.  Students may be better\nserved by learning Python as their first language.  Python has a very simple and\nconsistent syntax and a large standard library and, most importantly, using\nPython in a beginning programming course lets students concentrate on important\nprogramming skills such as problem decomposition and data type design.  With\nPython, students can be quickly introduced to basic concepts such as loops and\nprocedures.  They can probably even work with user-defined objects in their very\nfirst course."
+    },
+    {
+        "title": "what is python",
+        "content": "Python is an interpreted, interactive, object-oriented programming language.  It\nincorporates modules, exceptions, dynamic typing, very high level dynamic data\ntypes, and classes.  It supports multiple programming paradigms beyond\nobject-oriented programming, such as procedural and functional programming.\nPython combines remarkable power with very clear syntax. It has interfaces to\nmany system calls and libraries, as well as to various window systems, and is\nextensible in C or C++.  It is also usable as an extension language for\napplications that need a programmable interface. Finally, Python is portable:\nit runs on many Unix variants including Linux and macOS, and on Windows. To find out more, start withThe Python Tutorial.  TheBeginner\u00e2\u0080\u0099s Guide to\nPythonlinks to other\nintroductory tutorials and resources for learning Python."
+    },
+    {
+        "title": "tell me what you tell me about python",
+        "content": "Python is an interpreted, interactive, object-oriented programming language.  It\nincorporates modules, exceptions, dynamic typing, very high level dynamic data\ntypes, and classes.  It supports multiple programming paradigms beyond\nobject-oriented programming, such as procedural and functional programming.\nPython combines remarkable power with very clear syntax. It has interfaces to\nmany system calls and libraries, as well as to various window systems, and is\nextensible in C or C++.  It is also usable as an extension language for\napplications that need a programmable interface. Finally, Python is portable:\nit runs on many Unix variants including Linux and macOS, and on Windows. To find out more, start withThe Python Tutorial.  TheBeginner\u00e2\u0080\u0099s Guide to\nPythonlinks to other\nintroductory tutorials and resources for learning Python."
     }
 ]

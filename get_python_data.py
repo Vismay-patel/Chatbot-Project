@@ -37,4 +37,4 @@ for i in range(4, 28):
 json_data = json.dumps(data, indent=4)
 
 with open('faq_data.json', 'w', encoding='utf-8') as f:
-    f.write(json_data)
+    f.write(json_data)       
