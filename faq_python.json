@@ -1,0 +1,98 @@
+[
+    {
+        "title": "What is Python?",
+        "content": "Python is an interpreted, interactive, object-oriented programming language.  It\nincorporates modules, exceptions, dynamic typing, very high level dynamic data\ntypes, and classes.  It supports multiple programming paradigms beyond\nobject-oriented programming, such as procedural and functional programming.\nPython combines remarkable power with very clear syntax. It has interfaces to\nmany system calls and libraries, as well as to various window systems, and is\nextensible in C or C++.  It is also usable as an extension language for\napplications that need a programmable interface. Finally, Python is portable:\nit runs on many Unix variants including Linux and macOS, and on Windows. To find out more, start withThe Python Tutorial.  TheBeginner\u00e2\u0080\u0099s Guide to\nPythonlinks to other\nintroductory tutorials and resources for learning Python."
+    },
+    {
+        "title": "What is the Python Software Foundation?",
+        "content": "The Python Software Foundation is an independent non-profit organization that\nholds the copyright on Python versions 2.1 and newer.  The PSF\u00e2\u0080\u0099s mission is to\nadvance open source technology related to the Python programming language and to\npublicize the use of Python.  The PSF\u00e2\u0080\u0099s home page is athttps://www.python.org/psf/. Donations to the PSF are tax-exempt in the US.  If you use Python and find it\nhelpful, please contribute viathe PSF donation page."
+    },
+    {
+        "title": "Are there copyright restrictions on the use of Python?",
+        "content": "You can do anything you want with the source, as long as you leave the\ncopyrights in and display those copyrights in any documentation about Python\nthat you produce.  If you honor the copyright rules, it\u00e2\u0080\u0099s OK to use Python for\ncommercial use, to sell copies of Python in source or binary form (modified or\nunmodified), or to sell products that incorporate Python in some form.  We would\nstill like to know about all commercial use of Python, of course. Seethe license pageto find further\nexplanations and the full text of the PSF License."
+    },
+    {
+        "title": "Why was Python created in the first place?",
+        "content": "Here\u00e2\u0080\u0099s averybrief summary of what started it all, written by Guido van\nRossum: I had extensive experience with implementing an interpreted language in the\nABC group at CWI, and from working with this group I had learned a lot about\nlanguage design.  This is the origin of many Python features, including the\nuse of indentation for statement grouping and the inclusion of\nvery-high-level data types (although the details are all different in\nPython)."
+    },
+    {
+        "title": "What is Python good for?",
+        "content": "Python is a high-level general-purpose programming language that can be applied\nto many different classes of problems. The language comes with a large standard library that covers areas such as\nstring processing (regular expressions, Unicode, calculating differences between\nfiles), internet protocols (HTTP, FTP, SMTP, XML-RPC, POP, IMAP),\nsoftware engineering (unit testing, logging, profiling, parsing\nPython code), and operating system interfaces (system calls, filesystems, TCP/IP\nsockets).  Look at the table of contents forThe Python Standard Libraryto get an idea\nof what\u00e2\u0080\u0099s available.  A wide variety of third-party extensions are also\navailable.  Consultthe Python Package Indexto\nfind packages of interest to you."
+    },
+    {
+        "title": "How does the Python version numbering scheme work?",
+        "content": "Python versions are numbered \u00e2\u0080\u009cA.B.C\u00e2\u0080\u009d or \u00e2\u0080\u009cA.B\u00e2\u0080\u009d: Ais the major version number \u00e2\u0080\u0093 it is only incremented for really major\nchanges in the language."
+    },
+    {
+        "title": "How do I obtain a copy of the Python source?",
+        "content": "The latest Python source distribution is always available from python.org, athttps://www.python.org/downloads/.  The latest development sources can be obtained\nathttps://github.com/python/cpython/. The source distribution is a gzipped tar file containing the complete C source,\nSphinx-formatted documentation, Python library modules, example programs, and\nseveral useful pieces of freely distributable software.  The source will compile\nand run out of the box on most UNIX platforms."
+    },
+    {
+        "title": "How do I get documentation on Python?",
+        "content": "The standard documentation for the current stable version of Python is available\nathttps://docs.python.org/3/.  PDF, plain text, and downloadable HTML versions are\nalso available athttps://docs.python.org/3/download.html. The documentation is written in reStructuredText and processed bythe Sphinx\ndocumentation tool.  The reStructuredText source for\nthe documentation is part of the Python source distribution."
+    },
+    {
+        "title": "I\u00e2\u0080\u0099ve never programmed before. Is there a Python tutorial?",
+        "content": "There are numerous tutorials and books available.  The standard documentation\nincludesThe Python Tutorial. Consultthe Beginner\u00e2\u0080\u0099s Guideto\nfind information for beginning Python programmers, including lists of tutorials."
+    },
+    {
+        "title": "Is there a newsgroup or mailing list devoted to Python?",
+        "content": "There is a newsgroup,comp.lang.python, and a mailing list,python-list.  The\nnewsgroup and mailing list are gatewayed into each other \u00e2\u0080\u0093 if you can read news\nit\u00e2\u0080\u0099s unnecessary to subscribe to the mailing list.comp.lang.pythonis high-traffic, receiving hundreds of postings\nevery day, and Usenet readers are often more able to cope with this volume. Announcements of new software releases and events can be found in\ncomp.lang.python.announce, a low-traffic moderated list that receives about five\npostings per day.  It\u00e2\u0080\u0099s available asthe python-announce mailing list."
+    },
+    {
+        "title": "How do I get a beta test version of Python?",
+        "content": "Alpha and beta releases are available fromhttps://www.python.org/downloads/.  All\nreleases are announced on the comp.lang.python and comp.lang.python.announce\nnewsgroups and on the Python home page athttps://www.python.org/; an RSS feed of\nnews is available. You can also access the development version of Python through Git.  SeeThe Python Developer\u00e2\u0080\u0099s Guidefor details."
+    },
+    {
+        "title": "How do I submit bug reports and patches for Python?",
+        "content": "To report a bug or submit a patch, use the issue tracker athttps://github.com/python/cpython/issues. For more information on how Python is developed, consultthe Python Developer\u00e2\u0080\u0099s\nGuide."
+    },
+    {
+        "title": "Are there any published articles about Python that I can reference?",
+        "content": "It\u00e2\u0080\u0099s probably best to cite your favorite book about Python. Thevery first articleabout Python was\nwritten in 1991 and is now quite outdated."
+    },
+    {
+        "title": "Are there any books on Python?",
+        "content": "Yes, there are many, and more are being published.  See the python.org wiki athttps://wiki.python.org/moin/PythonBooksfor a list. You can also search online bookstores for \u00e2\u0080\u009cPython\u00e2\u0080\u009d and filter out the Monty\nPython references; or perhaps search for \u00e2\u0080\u009cPython\u00e2\u0080\u009d and \u00e2\u0080\u009clanguage\u00e2\u0080\u009d."
+    },
+    {
+        "title": "Where in the world is www.python.org located?",
+        "content": "The Python project\u00e2\u0080\u0099s infrastructure is located all over the world and is managed\nby the Python Infrastructure Team. Detailshere. When he began implementing Python, Guido van Rossum was also reading the\npublished scripts from\u00e2\u0080\u009cMonty Python\u00e2\u0080\u0099s Flying Circus\u00e2\u0080\u009d, a BBC comedy series from the 1970s.  Van Rossum\nthought he needed a name that was short, unique, and slightly mysterious, so he\ndecided to call the language Python."
+    },
+    {
+        "title": "Why is it called Python?",
+        "content": "When he began implementing Python, Guido van Rossum was also reading the\npublished scripts from\u00e2\u0080\u009cMonty Python\u00e2\u0080\u0099s Flying Circus\u00e2\u0080\u009d, a BBC comedy series from the 1970s.  Van Rossum\nthought he needed a name that was short, unique, and slightly mysterious, so he\ndecided to call the language Python. No, but it helps.  :)"
+    },
+    {
+        "title": "Do I have to like \u00e2\u0080\u009cMonty Python\u00e2\u0080\u0099s Flying Circus\u00e2\u0080\u009d?",
+        "content": "No, but it helps.  :) Very stable.  New, stable releases have been coming out roughly every 6 to 18\nmonths since 1991, and this seems likely to continue.  As of version 3.9,\nPython will have a new feature release every 12 months (PEP 602)."
+    },
+    {
+        "title": "Python in the real world",
+        "content": "Very stable.  New, stable releases have been coming out roughly every 6 to 18\nmonths since 1991, and this seems likely to continue.  As of version 3.9,\nPython will have a new feature release every 12 months (PEP 602). The developers issue bugfix releases of older versions, so the stability of\nexisting releases gradually improves.  Bugfix releases, indicated by a third\ncomponent of the version number (e.g. 3.5.3, 3.6.2), are managed for stability;\nonly fixes for known problems are included in a bugfix release, and it\u00e2\u0080\u0099s\nguaranteed that interfaces will remain the same throughout a series of bugfix\nreleases."
+    },
+    {
+        "title": "How stable is Python?",
+        "content": "Very stable.  New, stable releases have been coming out roughly every 6 to 18\nmonths since 1991, and this seems likely to continue.  As of version 3.9,\nPython will have a new feature release every 12 months (PEP 602). The developers issue bugfix releases of older versions, so the stability of\nexisting releases gradually improves.  Bugfix releases, indicated by a third\ncomponent of the version number (e.g. 3.5.3, 3.6.2), are managed for stability;\nonly fixes for known problems are included in a bugfix release, and it\u00e2\u0080\u0099s\nguaranteed that interfaces will remain the same throughout a series of bugfix\nreleases."
+    },
+    {
+        "title": "How many people are using Python?",
+        "content": "There are probably millions of users, though it\u00e2\u0080\u0099s difficult to obtain an exact\ncount. Python is available for free download, so there are no sales figures, and it\u00e2\u0080\u0099s\navailable from many different sites and packaged with many Linux distributions,\nso download statistics don\u00e2\u0080\u0099t tell the whole story either."
+    },
+    {
+        "title": "Have any significant projects been done in Python?",
+        "content": "Seehttps://www.python.org/about/successfor a list of projects that use Python.\nConsulting the proceedings forpast Python conferenceswill reveal contributions from many\ndifferent companies and organizations. High-profile Python projects includethe Mailman mailing list managerandthe Zope application server.  Several Linux distributions, most notablyRed Hat, have written part or all of their installer and\nsystem administration software in Python.  Companies that use Python internally\ninclude Google, Yahoo, and Lucasfilm Ltd."
+    },
+    {
+        "title": "What new developments are expected for Python in the future?",
+        "content": "Seehttps://peps.python.org/for the Python Enhancement Proposals\n(PEPs). PEPs are design documents describing a suggested new feature for Python,\nproviding a concise technical specification and a rationale.  Look for a PEP\ntitled \u00e2\u0080\u009cPython X.Y Release Schedule\u00e2\u0080\u009d, where X.Y is a version that hasn\u00e2\u0080\u0099t been\npublicly released yet. New development is discussed onthe python-dev mailing list."
+    },
+    {
+        "title": "Is it reasonable to propose incompatible changes to Python?",
+        "content": "In general, no.  There are already millions of lines of Python code around the\nworld, so any change in the language that invalidates more than a very small\nfraction of existing programs has to be frowned upon.  Even if you can provide a\nconversion program, there\u00e2\u0080\u0099s still the problem of updating all documentation;\nmany books have been written about Python, and we don\u00e2\u0080\u0099t want to invalidate them\nall at a single stroke. Providing a gradual upgrade path is necessary if a feature has to be changed.PEP 5describes the procedure followed for introducing backward-incompatible\nchanges while minimizing disruption for users."
+    },
+    {
+        "title": "Is Python a good language for beginning programmers?",
+        "content": "Yes. It is still common to start students with a procedural and statically typed\nlanguage such as Pascal, C, or a subset of C++ or Java.  Students may be better\nserved by learning Python as their first language.  Python has a very simple and\nconsistent syntax and a large standard library and, most importantly, using\nPython in a beginning programming course lets students concentrate on important\nprogramming skills such as problem decomposition and data type design.  With\nPython, students can be quickly introduced to basic concepts such as loops and\nprocedures.  They can probably even work with user-defined objects in their very\nfirst course."
+    }
+]
